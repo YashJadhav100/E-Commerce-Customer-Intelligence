@@ -167,8 +167,6 @@ It reflects how analytics teams **turn data into decisions**, not just charts.
 
 ## 👤 Author
 
-**Yash Jadhav**
-Graduate Student, Computer Science
+**Yash Jadhav**  
+Graduate Student, Computer Science  
 Syracuse University
----
-

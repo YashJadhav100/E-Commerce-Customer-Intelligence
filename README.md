@@ -107,7 +107,7 @@ ecommerce-transaction-analytics/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/YashJadhav100/E-Commerce-Backend-Platform.git
 cd ecommerce-transaction-analytics
 ```
 
@@ -174,3 +174,4 @@ It reflects how analytics teams **turn data into decisions**, not just charts.
 **Yash Jadhav**
 Graduate Student, Computer Science
 Syracuse University
+
